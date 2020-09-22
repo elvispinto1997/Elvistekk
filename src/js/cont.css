@@ -1,0 +1,13 @@
+.nav-link:hover{
+    margin-top: -2px;
+    border-bottom: 1px solid  white;
+ 
+}
+h1{
+    font-size: 8px;
+    color: white;
+    font-style: unset;
+}
+.navbar .fa{
+color: rgb(255, 255, 255);
+}
